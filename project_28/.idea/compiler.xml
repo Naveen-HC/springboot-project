@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="project_10" />
+        <module name="project_11" />
+        <module name="project_12" />
+        <module name="project_17" />
+        <module name="project_18" />
+        <module name="project_19" />
+        <module name="project_13" />
+        <module name="project_14" />
+        <module name="project_15" />
+        <module name="project_16" />
+        <module name="project_1" />
+        <module name="project_2" />
+        <module name="project_5" />
+        <module name="project_4" />
+        <module name="project_20" />
+        <module name="project_21" />
+        <module name="project_22" />
+        <module name="project_23" />
+        <module name="project_7" />
+        <module name="project_28" />
+        <module name="project_6" />
+        <module name="project_9" />
+        <module name="project_8" />
+        <module name="project_24" />
+        <module name="project_25" />
+        <module name="project_26" />
+        <module name="project_27" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="project_1" options="-parameters" />
+      <module name="project_10" options="-parameters" />
+      <module name="project_11" options="-parameters" />
+      <module name="project_12" options="-parameters" />
+      <module name="project_13" options="-parameters" />
+      <module name="project_14" options="-parameters" />
+      <module name="project_15" options="-parameters" />
+      <module name="project_16" options="-parameters" />
+      <module name="project_17" options="-parameters" />
+      <module name="project_18" options="-parameters" />
+      <module name="project_19" options="-parameters" />
+      <module name="project_2" options="-parameters" />
+      <module name="project_20" options="-parameters" />
+      <module name="project_21" options="-parameters" />
+      <module name="project_22" options="-parameters" />
+      <module name="project_23" options="-parameters" />
+      <module name="project_24" options="-parameters" />
+      <module name="project_25" options="-parameters" />
+      <module name="project_26" options="-parameters" />
+      <module name="project_27" options="-parameters" />
+      <module name="project_28" options="-parameters" />
+      <module name="project_4" options="-parameters" />
+      <module name="project_5" options="-parameters" />
+      <module name="project_6" options="-parameters" />
+      <module name="project_7" options="-parameters" />
+      <module name="project_8" options="-parameters" />
+      <module name="project_9" options="-parameters" />
+    </option>
+  </component>
+</project>
